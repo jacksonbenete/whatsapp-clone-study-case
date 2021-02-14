@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="0" errors="0" time="3.702">
-  <testsuite name="Query.chats" errors="0" failures="0" skipped="0" timestamp="2021-02-14T21:25:20" time="2.872" tests="1">
-    <testcase classname="Query.chats should fetch all chats" name="Query.chats should fetch all chats" time="0.058">
+<testsuites name="jest tests" tests="2" failures="0" errors="0" time="4.356">
+  <testsuite name="Query.chat" errors="0" failures="0" skipped="0" timestamp="2021-02-14T22:37:00" time="3.172" tests="1">
+    <testcase classname="Query.chat should fetch specified chat" name="Query.chat should fetch specified chat" time="0.053">
+    </testcase>
+  </testsuite>
+  <testsuite name="Query.chats" errors="0" failures="0" skipped="0" timestamp="2021-02-14T22:37:00" time="3.175" tests="1">
+    <testcase classname="Query.chats should fetch all chats" name="Query.chats should fetch all chats" time="0.054">
     </testcase>
   </testsuite>
 </testsuites>
